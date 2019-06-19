@@ -1,0 +1,23 @@
+body{
+  margin: auto;
+  width: 25%;
+   
+}
+input {
+    padding: 5px;
+    border: rgba(240, 228, 68, 0.303) 3px ;
+    background-color: rgba(168, 162, 77, 0.171) ;
+    margin-bottom: 15px;
+}
+.container{
+    width : 250px;
+    clear:both;
+}
+.container input {
+    width: 100%;
+    clear: both;
+  }
+
+input [type="submit"]{
+   color:palevioletred;
+}
